@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## ⚙️ GitHub Analytics
 <p align="left">
-  <img align="top" width="430em" src="https://github-readme-stats.vercel.app/api?username=rafavanzo&show_icons=true&layout=compact&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="top" width="430em" src="https://github-readme-stats.vercel.app/api?username=rafavanzo&show_icons=true&layout=compact&theme=radical"/>
   <img align="top" width="385em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavanzo&layout=compact&theme=radical"/>
 </p>
 
